@@ -1,0 +1,102 @@
+{
+  "P001": {
+    "name": "Ananya Verma",
+    "city": "Guwahati",
+    "age": 28,
+    "gender": "female",
+    "height": 1.65,
+    "weight": 90.0,
+    "bmi": 33.06,
+    "verdict": "Obese"
+  },
+  "P002": {
+    "name": "Ravi Mehta",
+    "city": "Mumbai",
+    "age": 35,
+    "gender": "male",
+    "height": 1.75,
+    "weight": 85,
+    "bmi": 27.76,
+    "verdict": "Overweight"
+  },
+  "P003": {
+    "name": "Sneha Kulkarni",
+    "city": "Pune",
+    "age": 22,
+    "gender": "female",
+    "height": 1.6,
+    "weight": 45,
+    "bmi": 17.58,
+    "verdict": "Underweight"
+  },
+  "P005": {
+    "name": "Neha Sinha",
+    "city": "Kolkata",
+    "age": 30,
+    "gender": "female",
+    "height": 1.55,
+    "weight": 75,
+    "bmi": 31.22,
+    "verdict": "Obese"
+  },
+  "P006": {
+    "name": "Ayush Singh",
+    "city": "LKO",
+    "age": 22,
+    "gender": "M",
+    "height": 155.0,
+    "weight": 55.0,
+    "bmi": 0.0,
+    "verdict": "Underweight"
+  },
+  "P004": {
+    "name": "Sunil ",
+    "city": "Delhi",
+    "age": 43,
+    "gender": "Male",
+    "height": 1.75,
+    "weight": 89.2,
+    "bmi": 29.13,
+    "verdict": "Overweight"
+  },
+  "P007": {
+    "name": "Sushant",
+    "city": "Lucknow",
+    "age": 22,
+    "gender": "Male",
+    "height": 1.68,
+    "weight": 62.0,
+    "bmi": 21.97,
+    "verdict": "Normal weight"
+  },
+  "P008": {
+    "name": "Advika",
+    "city": "Hl city",
+    "age": 12,
+    "gender": "Female",
+    "height": 1.52,
+    "weight": 43.0,
+    "bmi": 18.61,
+    "verdict": "Normal weight"
+  },
+  "P009": {
+    "name": "Lucky",
+    "city": "Hl City",
+    "age": 18,
+    "gender": "Female",
+    "height": 1.49,
+    "weight": 45.0,
+    "bmi": 20.27,
+    "verdict": "Normal weight"
+  },
+  "P010": {
+    "name": "Akash",
+    "city": "Luckonw",
+    "age": 25,
+    "gender": "Male",
+    "height": 1.75,
+    "weight": 55.0,
+    "bmi": 17.96,
+    "verdict": "Underweight"
+  }
+}
